@@ -1,0 +1,17 @@
+{
+    "name":             "@unzeroun/eslint-config",
+    "version":          "0.1.0",
+    "description":      "Un zero un eslint config",
+    "main":             "index.js",
+    "author":           "Yohan Giarelli <yohan@un-zero-un.fr>",
+    "license":          "MIT",
+    "private":          false,
+
+    "dependencies": {
+        "eslint-plugin-react": "^7.12.3"
+    },
+
+    "peerDependencies": {
+        "eslint": "^5.12.0"
+    }
+}

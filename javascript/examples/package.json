@@ -1,0 +1,14 @@
+{
+    "name":            "@unzeroun/coding-guide-javascript",
+    "version":         "0.1.0",
+    "description":     "Un zero un codings Javascript coding standards",
+    "main":            "index.js",
+    "author":          "Yohan Giarelli <yohan@un-zero-un.fr>",
+    "license":         "MIT",
+    "private":         false,
+
+    "devDependencies": {
+        "@unzeroun/eslint-config": "file:../eslint",
+        "eslint":                  "^5.12.0"
+    }
+}
